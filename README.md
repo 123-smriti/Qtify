@@ -1,16 +1,46 @@
-# React + Vite
+# 🎵 Music Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive music-browsing web application built with **React.js**, inspired by the QTify-style music discovery experience.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://music-website-nine-drab.vercel.app/
 
-## React Compiler
+## 💻 GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/123-smriti/music-website
 
-## Expanding the Oxlint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* 🎵 Browse albums and songs
+* 🎠 Responsive album carousel
+* 🎼 Genre-based song filtering
+* 🔎 Search interface
+* 📄 Album details page
+* 📱 Responsive design
+* 🔄 REST API integration
+* ⚠️ Loading & error handling
+
+## 🛠️ Technologies
+
+* React.js + Vite
+* JavaScript
+* Material UI
+* Swiper
+* React Router
+* REST API / Fetch
+* CSS Modules
+* Flexbox & CSS Variables
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/123-smriti/music-website.git
+cd music-website
+npm install
+npm run dev
+```
+
+## 👩‍💻 Author
+
+**Smriti Kumari**
