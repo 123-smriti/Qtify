@@ -32,14 +32,7 @@ https://github.com/123-smriti/music-website
 * CSS Modules
 * Flexbox & CSS Variables
 
-## 🚀 Run Locally
 
-```bash
-git clone https://github.com/username/music.git
-cd music-website
-npm install
-npm run dev
-```
 
 ## 👩‍💻 Author
 
