@@ -35,7 +35,7 @@ https://github.com/123-smriti/music-website
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/123-smriti/music-website.git
+git clone https://github.com/username/music.git
 cd music-website
 npm install
 npm run dev
